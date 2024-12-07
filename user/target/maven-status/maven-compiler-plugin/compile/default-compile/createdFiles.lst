@@ -1,0 +1,10 @@
+com\senac\ads4\user\mapper\UserMapper.class
+com\senac\ads4\user\service\UserService.class
+com\senac\ads4\user\interfaces\IResource.class
+com\senac\ads4\user\UserApplication.class
+com\senac\ads4\user\interfaces\IService.class
+com\senac\ads4\user\model\UserModel.class
+com\senac\ads4\user\repository\UserRepository.class
+com\senac\ads4\user\mapper\UserMapperImpl.class
+com\senac\ads4\user\resource\UserResource.class
+com\senac\ads4\user\dto\UserDto.class
